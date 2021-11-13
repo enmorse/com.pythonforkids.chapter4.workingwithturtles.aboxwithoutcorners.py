@@ -1,0 +1,27 @@
+# A Box Without Corners
+import turtle
+
+t = turtle.Pen()
+
+t.forward(90)
+t.up()
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.down()
+t.forward(90)
+t.up()
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.down()
+t.forward(90)
+t.up()
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.down()
+t.forward(90)
+t.up()
+t.forward(90)
+t.left(90)
